@@ -17,3 +17,6 @@ Desafio DIO github markdown
 - [x] Formatação com Markdown:
 - [x] Edite o arquivo "README.md" em seu repositório.
 - [x] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+
+
+![Cartaz de The Avengers](https://upload.wikimedia.org/wikipedia/en/1/1c/The_Avengers_Cartaz.jpg)
