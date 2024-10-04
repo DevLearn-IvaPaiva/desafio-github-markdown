@@ -18,4 +18,7 @@ Desafio DIO github markdown
 - [x] Edite o arquivo "README.md" em seu repositório.
 - [x] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
-![Cartaz de The Avengers]([https://pt.wikipedia.org/wiki/The_Avengers_%282012%29#/media/Ficheiro:The_Avengers_Cartaz.jpg](https://camo.githubusercontent.com/aad78b09a526e36cd1b6b94f89f539cc42744a54f610fa4dfb30be2df690c500/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36622f37652f64332f36623765643339633337353163393264663264336563653136613332393932352e676966))
+
+<div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
+
+<div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
