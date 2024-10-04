@@ -11,8 +11,8 @@ Desafio DIO github markdown
 - [x] Lembre-se: o repositório deve ser público.
 
 ### Colaboração:
-- [ ] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-- [ ] Ambos devem fazer um clone do repositório em suas máquinas locais.
+- [x] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+- [x] Ambos devem fazer um clone do repositório em suas máquinas locais.
 - [ ] Realizem alterações, Commits, abra issues e pull requests.
 - [ ] Formatação com Markdown:
 - [ ] Edite o arquivo "README.md" em seu repositório.
