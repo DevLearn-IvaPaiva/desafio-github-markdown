@@ -21,4 +21,4 @@ Desafio DIO github markdown
 
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
-<div align="center"><img src="https://pt.wikipedia.org/wiki/The_Avengers_%282012%29#/media/Ficheiro:The_Avengers_Cartaz.jpg") /></div>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/en/1/1c/The_Avengers_Cartaz.jpg") /></div>
